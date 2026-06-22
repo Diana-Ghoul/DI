@@ -1,0 +1,33 @@
+body {
+background-color: beige;
+font-family: Arial;
+margin: 25px;
+}
+h1 {
+color: brown;
+text-align: center;
+}
+
+h2 {
+color: darkred;
+}
+
+p {
+font-size: 17px;
+}
+
+ol {
+font-size: 17px;
+}
+
+img {
+width: 220px;
+height: auto;
+margin: 10px;
+}
+
+.center-photo {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
